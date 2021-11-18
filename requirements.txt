@@ -3,3 +3,4 @@ jupyterlab-link-share
 sympy==1.9
 matplotlib
 jupyter_contrib_nbextensions
+pandas
