@@ -3,6 +3,4 @@
 jupyter contrib nbextension install --user
 jupyter labextension install @oriolmirosa/jupyterlab_materialdarker
 jupyter labextension enable jupyterlab_materialdarker
-mkdir -p ~/.jupyter/lab/user-settings/@jupyterlab/apputils-extension/ 
-chmod -R 777 ~/.jupyter
-echo '{"theme":"Material Darker" }' > ~/.jupyter/lab/user-settings/@jupyterlab/apputils-extension/themes.jupyterlab-settings
+mkdir -p ~/.jupyter/lab/user-settings/@jupyterlab/apputils-extension/
