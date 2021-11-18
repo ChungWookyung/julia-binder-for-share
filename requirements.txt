@@ -1,2 +1,4 @@
 jupyterlab==3.2.3
 jupyterlab-link-share
+sympy==1.9
+matplotlib
