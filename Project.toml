@@ -2,6 +2,7 @@
 ARFIMA = "9d0fb3db-ba49-4108-bc86-650b3813b6d5"
 CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
 GLPK = "60bf3e95-4087-53dc-ae20-288a0d20c6a6"
 Gadfly = "c91e804a-d5a3-530f-b6f0-dfbca275c004"
